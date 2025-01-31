@@ -134,5 +134,4 @@ def main():
         print(f"Error: {e}")
 
 if __name__ == '__main__':
-    # this is where code is start for traning
     main()
